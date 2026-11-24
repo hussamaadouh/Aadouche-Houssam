@@ -1,0 +1,53 @@
+[
+  {
+    "code": "EPP-4821",
+    "status": "confirmed",
+    "createdAt": "2026-11-24T13:58:35.248Z",
+    "date": "2026-11-24",
+    "time": "21:00",
+    "partySize": 6,
+    "zone": "salon",
+    "guestName": "Mateo Giraldo",
+    "guestEmail": "mateo@example.com",
+    "guestPhone": "+34 612 340 912",
+    "notes": "Mesa cerca de la cocina"
+  },
+  {
+    "code": "EPP-7390",
+    "status": "confirmed",
+    "createdAt": "2026-11-24T13:58:35.248Z",
+    "date": "2026-11-24",
+    "time": "14:30",
+    "partySize": 4,
+    "zone": "terraza",
+    "guestName": "Lucía Morales",
+    "guestEmail": "lucia@example.com",
+    "guestPhone": "+34 622 198 441"
+  },
+  {
+    "date": "2026-11-24",
+    "time": "20:30",
+    "partySize": 4,
+    "zone": "salon",
+    "guestName": "Camila Restrepo",
+    "guestEmail": "camila@example.com",
+    "guestPhone": "+34 611 223 344",
+    "notes": "Mesa tranquila",
+    "code": "EPP-Z8F2",
+    "status": "cancelled",
+    "createdAt": "2026-11-24T13:59:09.424Z"
+  },
+  {
+    "date": "2026-11-24",
+    "time": "20:30",
+    "partySize": 2,
+    "zone": "salon",
+    "guestName": "Sofía Valencia",
+    "guestEmail": "sofia@example.com",
+    "guestPhone": "+34 644 123 456",
+    "notes": "",
+    "code": "EPP-Z5QW",
+    "status": "confirmed",
+    "createdAt": "2026-11-24T14:02:34.751Z"
+  }
+]

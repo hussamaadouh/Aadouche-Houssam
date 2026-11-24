@@ -1,0 +1,6 @@
+{
+  "name": "El Peñol Paisa — Restaurante Colombiano",
+  "description": "Authentic Colombian and Antioquian dining in Seseña, featuring an interactive digital menu and online table reservation system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
